@@ -1,4 +1,4 @@
-# react-todo-list-app
+# React To-Do List App
 This is a simple Todo application built with ReactJS. Todo items can be added via the input form, marked as completed and also deleted.
 
 ## Built With
